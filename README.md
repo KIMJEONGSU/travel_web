@@ -3,7 +3,7 @@
 
 - 프로젝트 기간 : 2023.05.15 ~ 2023.05.25
 - 담당업무 : ```파이프라인 구축 보조``` ```웹 서버 구축, 기능 구현 및 배포```
-- skills : ```Python```,```SQL```,```Flask```, ```HTML```,```Bootstrap```, ```JavaScript```, ```BigQuery```, ```Looker```, ```AWS EC2```
+- skills : ```Python``` ```SQL``` ```Flask``` ```HTML``` ```JavaScript``` ```GCP(BigQuery, Looker)``` ```AWS EC2```
 - 기술 스택 선택 이유
   - ```BigQuery``` : 필요에 따라 자동으로 확장되는 뛰어난 확장성과 데이터 분석가나 개발자들이 쉽게 접근하고 활용할 수 있는 간편한 사용성 때문에 선정.
   -  ```Flask```
